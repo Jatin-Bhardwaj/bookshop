@@ -1,0 +1,79 @@
+[
+	{
+		"title": "Northanger Abbey",
+		"year_written": "1814",
+		"edition": "Penguin",
+		"price": "182",
+		"author": "622e3413a405ec8a818344e1"
+	},
+	{
+		"title": "War and Peace",
+		"year_written": "1865",
+		"edition": "Penguin",
+		"price": "127",
+		"author": "622e342a15c8525b0abe58c5"
+	},
+	{
+		"title": "Anna Karenina",
+		"year_written": "1875",
+		"edition": "Penguin",
+		"price": "135",
+		"author": "622e342a15c8525b0abe58c5"
+	},
+	{
+		"title": "Mrs. Dalloway",
+		"year_written": "1925",
+		"edition": "Harcourt Brace",
+		"price": "250",
+		"author": "622e3432ce4ba486a8453681"
+	},
+	{
+		"title": "The Hours",
+		"year_written": "1999",
+		"edition": "Harcourt Brace",
+		"price": "535",
+		"author": "622e343be9c213311ec0f7c9"
+	},
+	{
+		"title": "Huckleberry Finn",
+		"year_written": "1865",
+		"edition": "Penguin",
+		"price": "576",
+		"author": "622e344697f58e05eb630150"
+	},
+	{
+		"title": "Bleak House",
+		"year_written": "1870",
+		"edition": "Random House",
+		"price": "575",
+		"author": "622e344d933ffd60f8b15479"
+	},
+	{
+		"title": "Tom Sawyer",
+		"year_written": "1862",
+		"edition": "Random House",
+		"price": "775",
+		"author": "622e344697f58e05eb630150"
+	},
+	{
+		"title": "A Room of One's Own",
+		"year_written": "1922",
+		"edition": "Penguin",
+		"price": "290",
+		"author": "622e3432ce4ba486a8453681"
+	},
+	{
+		"title": "Harry Potter",
+		"year_written": 2000,
+		"edition": "Harcourt Brace",
+		"price": 995,
+		"author": "622e3456dde0622715f2745a"
+	},
+	{
+		"title": "One Hundred Years of Solitude",
+		"year_written": "1967",
+		"edition": "Harper  Perennial",
+		"price": "400",
+		"author": "622e345df99264927af334ff"
+	}
+]
